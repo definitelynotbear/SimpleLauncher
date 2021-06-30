@@ -1,2 +1,2 @@
-# SimpleLauncher
-This is a ez way to make a game launcher!
+# Downloads
+[Download Simple Launcher](https://drive.google.com/uc?export=download&id=1Nb8ZJtlythR4CHI2iNOHJFpVeKsPtwSU)
